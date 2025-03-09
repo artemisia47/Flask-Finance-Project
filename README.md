@@ -57,5 +57,8 @@ flask run  # Initializes SQLite and starts the server
 
 ### Screenshots
 
-
-
+![Screenshot 2025-03-08 230418](https://github.com/user-attachments/assets/8381ae88-1480-4bd3-8e8e-2d6f4c16a6f0)
+![Screenshot 2025-03-08 230430](https://github.com/user-attachments/assets/a594f3bc-237a-4536-97a4-dd930ea1f946)
+![Screenshot 2025-03-08 230436](https://github.com/user-attachments/assets/faa6c705-3a40-42e3-aa78-ccb4e398ed3f)
+![Screenshot 2025-03-08 230441](https://github.com/user-attachments/assets/9b6bd6fc-8671-4a75-b3c3-42ddf9abdc1d)
+![Screenshot 2025-03-08 230511](https://github.com/user-attachments/assets/f9e3b2d7-e874-421a-b992-45dd23333a58)
